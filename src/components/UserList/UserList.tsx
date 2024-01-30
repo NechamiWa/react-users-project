@@ -110,6 +110,10 @@ const UserList: FC<UserListProps> = () => {
     setIsModalDisplay(false);
   }
 
+  const sumFunction = (a: number, b: number) => {
+    return a + b;
+  }
+
   return <div className='UserList'>
     <h1 id="title">Users Website</h1>
     <br />
