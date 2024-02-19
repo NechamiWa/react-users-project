@@ -1,11 +1,3 @@
-# My Project
+# Users Project
 
-This is project that display user list, add new users and delete users.
-
-## Build
-
-    docker build -t image-name .
-
-## Run
-
-    docker run --name container-name -it -p 8080:8080 image-name
+# This is just an initial project, please go to https://github.com/NechamiWa/users-system to view the full project.
